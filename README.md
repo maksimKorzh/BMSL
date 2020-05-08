@@ -1,6 +1,10 @@
 # BMSL
 Bare minimum web scraping library
 
+# Disclaimer
+Please don't take it too serious - it's made more like for educational purposes rather than for production
+
+# How to use
 ```python
 ########################################
 #
@@ -44,3 +48,10 @@ for index in range(0, len(quotes)):
         # write line
         writer.writerow([quotes[index], authors[index], about[index]])
 ```
+
+# Implementing "request.py"
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fcnxo3iCaa0/0.jpg)](https://www.youtube.com/watch?v=fcnxo3iCaa0)
+
+# Implementing "parser.py"
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PwjP0berJR0/0.jpg)](https://youtu.be/PwjP0berJR0)
+
