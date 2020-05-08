@@ -16,7 +16,10 @@ Please don't take it too serious - it's made more like for educational purposes 
 #
 ########################################
 
-# packages
+# import packages assuming "BMSL" folder containing files "request.py" and "parser.py"
+# is located in current working directory along with this file "quotes.py".
+# Please see /src/BMSL/test folder for the example project layout
+
 from BMSL import request
 from BMSL import parser
 import csv
