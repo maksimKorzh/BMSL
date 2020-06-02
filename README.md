@@ -1,3 +1,6 @@
+# NEW VERSION
+https://github.com/maksimKorzh/tiny_scraper
+
 # BMSL
 Bare minimum web scraping library
 
